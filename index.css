@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    border: 1px solid rgb(241, 241, 241);
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: #A90072;
+
+}
+
+main {
+    background-color: #000000;
+
+}
+
+aside {
+    background-color: #560072;
+}
+
+section {
+    background-color: #FF0000;
+
+}
+
+footer {
+    background-color: #D50048;
+}
+
+.altura {
+    height: 15vh;
+}
+.altura2 {
+    height: 40vh
+}
